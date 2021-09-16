@@ -8,5 +8,7 @@ public class Main {
         System.out.println("23");
 
         System.out.println("24");
+        System.out.println("25");
+        
     }
 }
